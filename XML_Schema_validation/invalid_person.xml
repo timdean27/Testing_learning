@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person>
+    <name>Jane Doe</name>
+    <age>thirty</age> <!-- Invalid age format -->
+    <email>janedoe@example.com</email>
+</person>
